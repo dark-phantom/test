@@ -1,3 +1,5 @@
-# test
+#!/bin/bash
 
-this for test file...
+echo "Hello $USER"
+
+
